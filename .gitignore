@@ -1,0 +1,7 @@
+/node_modules
+/.airtableblocksrc.json
+/build
+.idea
+/.tmp
+/global_config.json
+.block
